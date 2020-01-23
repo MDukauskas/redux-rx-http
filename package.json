@@ -5,7 +5,7 @@
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
   "repository": "git@github.com:MDukauskas/redux-rx-http.git",
-  "author": "Mindaugas Dukauskas",
+  "author": "James Cleveland",
   "license": "MIT",
   "scripts": {
     "start": "yarn dev:build",
