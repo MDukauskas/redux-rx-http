@@ -1,4 +1,4 @@
-# redux-rx-http
+# redux-rxjs6-http
 
 ## TODO: Update Readme for 1.0.1
 
